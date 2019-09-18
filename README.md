@@ -1,2 +1,0 @@
-# ZombiePigman
-Zadaci iz cpp
